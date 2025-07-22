@@ -1,7 +1,7 @@
 # ProCode
 # USB Microcontroller for Elgorithm: Rapid Prototyping with Block-Based Programming
 
-![Alt text](https://raw.githubusercontent.com/RiteshF7/ProCode/refs/heads/master/pro2.jpg)
+![Alt text](https://raw.githubusercontent.com/RiteshF7/ProCode/refs/heads/master/pro2.png)
 
 ![Alt text](https://raw.githubusercontent.com/RiteshF7/ProCode/refs/heads/master/pro1.jpg)
 
